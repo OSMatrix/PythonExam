@@ -1,11 +1,11 @@
 ## 介绍
 loggingUI.py
-***运行： python loggingUI.py
-***功能： 捕获Python的日志输出，在PyQT界面显示。
+1.运行： python loggingUI.py
+2.功能： 捕获Python的日志输出，在PyQT界面显示。
 
 threadUI.py
-***运行： python loggingUI.py
-***功能： 在PyQT界面主线程显示工作任务线程的信息。
+1.运行： python loggingUI.py
+2.功能： 在PyQT界面主线程显示工作任务线程的信息。
 
 ## 开发环境
 
