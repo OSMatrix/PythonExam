@@ -2,9 +2,8 @@
 
 loggingUI.py
 
-1.运行： python loggingUI.py
-
-2.功能： 捕获Python的日志输出，在PyQT界面显示。
+* 1.运行： python loggingUI.py
+* 2.功能： 捕获Python的日志输出，在PyQT界面显示。
 
 threadUI.py
 
